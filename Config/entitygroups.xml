@@ -1,0 +1,5 @@
+<configs>
+  <insertAfter xpath="//entity[starts-with(@name, 'zombieBiker')]">
+    <entity name="zombieDemolition" prob="0.5" />
+  </insertAfter>
+</configs>
